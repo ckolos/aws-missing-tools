@@ -10,11 +10,11 @@ modify an Auto Scaling Group's Launch Configuration
 ## aws-ha-release and aws-ha-release-ruby
 allows the high-availability / no downtime replacement of all EC2 Instances in an Auto Scaling Group that is behind an Elastic Load Balancer
 
+## cloudinit-inject
+injects userdata scripts into a CloudFormation file for EC2 and Autoscaling Resources
+
 ## ec2-automate-backup
 provide easy backup/snapshot functionality for multiple EC2 EBS volumes
-
-## ec2-cost-calculate-ruby
-sum the total cost of instances running in one or all AWS Regions
 
 ## iam-keyfind
 list all Access Keys belonging to IAM accounts or find a particular IAM key
